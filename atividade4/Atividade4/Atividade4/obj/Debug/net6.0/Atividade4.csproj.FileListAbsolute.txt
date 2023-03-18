@@ -1,0 +1,15 @@
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\bin\Debug\net6.0\Atividade4.exe
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\bin\Debug\net6.0\Atividade4.deps.json
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\bin\Debug\net6.0\Atividade4.runtimeconfig.json
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\bin\Debug\net6.0\Atividade4.dll
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\bin\Debug\net6.0\ref\Atividade4.dll
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\bin\Debug\net6.0\Atividade4.pdb
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\obj\Debug\net6.0\Atividade4.csproj.AssemblyReference.cache
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\obj\Debug\net6.0\Atividade4.GeneratedMSBuildEditorConfig.editorconfig
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\obj\Debug\net6.0\Atividade4.AssemblyInfoInputs.cache
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\obj\Debug\net6.0\Atividade4.AssemblyInfo.cs
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\obj\Debug\net6.0\Atividade4.csproj.CoreCompileInputs.cache
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\obj\Debug\net6.0\Atividade4.dll
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\obj\Debug\net6.0\ref\Atividade4.dll
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\obj\Debug\net6.0\Atividade4.pdb
+H:\algoritmos_estruturas\atividade4\Atividade4\Atividade4\obj\Debug\net6.0\Atividade4.genruntimeconfig.cache

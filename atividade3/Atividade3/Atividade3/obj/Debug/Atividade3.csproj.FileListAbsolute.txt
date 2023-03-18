@@ -1,0 +1,8 @@
+H:\algoritmos_estruturas\atividade3\Atividade3\Atividade3\bin\Debug\Atividade3.exe.config
+H:\algoritmos_estruturas\atividade3\Atividade3\Atividade3\bin\Debug\Atividade3.exe
+H:\algoritmos_estruturas\atividade3\Atividade3\Atividade3\bin\Debug\Atividade3.pdb
+H:\algoritmos_estruturas\atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.csproj.AssemblyReference.cache
+H:\algoritmos_estruturas\atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.csproj.SuggestedBindingRedirects.cache
+H:\algoritmos_estruturas\atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.csproj.CoreCompileInputs.cache
+H:\algoritmos_estruturas\atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.exe
+H:\algoritmos_estruturas\atividade3\Atividade3\Atividade3\obj\Debug\Atividade3.pdb
